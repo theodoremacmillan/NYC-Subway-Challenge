@@ -1,0 +1,5 @@
+Get a version of the graph with time removed (any consecutive stops on some route is an edge)
+
+Is the graph connected?
+
+Include transfer edges
