@@ -1,0 +1,15 @@
+route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color
+1,Yellow,"Service between Antioch & SFO+Millbrae",,1,https://www.bart.gov/schedules,FFFF33
+2,Yellow,"Millbrae/SFIA to Antioch",,1,http://www.bart.gov/schedules,FFFF33
+3,Orange,"Service between Berryessa/North San Jose & Richmond",,1,,FF9933
+4,Orange,"Richmond to Berryessa/North San Jose",,1,,FF9933
+5,Green,"Service between Berryessa/North San Jose & Daly City",,1,,339933
+6,Green,"Daly City to Berryessa/North San Jose",,1,,339933
+7,Red,"Service between Richmond & Millbrae+SFO",,1,,FF0000
+8,Red,"Millbrae/Daly City to Richmond",,1,,FF0000
+11,Blue,"Service between Dublin/Pleasanton & Daly City",,1,,0099CC
+12,Blue,"Daly City to Dublin/Pleasanton",,1,,0099CC
+19,Grey,"Service between Oakland Airport & Coliseum",,0,,B0BEC7
+20,Grey,"Coliseum to Oakland Airport",,0,,B0BEC7
+BB-A,BridgeA,"Bus Bridge",,3,,FFFFFF
+BB-B,BridgeB,"Bus Bridge",,3,,FFFFFF

@@ -1,0 +1,10 @@
+service_id,service_description
+2025_01_13-DX-MVS-Weekday-022,"Weekday"
+2025_01_13-DX19-Weekday-003,"Weekday"
+2025_01_13-DX20-Weekday-003,"Weekday"
+2025_01_13-SA-MVS-Saturday-022,"Saturday"
+2025_01_13-SA19-Saturday-003,"Saturday"
+2025_01_13-SA20-Saturday-003,"Saturday"
+2025_01_13-SU-MVS-Sunday-022,"Sunday"
+2025_01_13-SU19-Sunday-003,"Sunday"
+2025_01_13-SU20-Sunday-003,"Sunday"
